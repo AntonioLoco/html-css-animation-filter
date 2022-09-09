@@ -42,9 +42,18 @@
 }
 
 /* Esercizio 6 */
-.ex-6-square{
+.ex-6-img{
     transition: filter 2s;
 }
 .ex-6-img:hover{
     filter: grayscale(1);
 }
+
+/* Esercizio 7 */
+.ex-7-img{
+    transition: filter 2s;
+}
+.ex-7-img:hover{
+    filter: sepia(.7);
+}
+
